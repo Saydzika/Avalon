@@ -1,0 +1,45 @@
+body {
+    background-color: #ECEBF1;
+    font-size: 35px;
+    width: 100%;
+}
+
+img {
+    width: 381px;
+    height: auto;
+}
+.manager {
+    display: flex;
+    width: 900px;
+}
+section {
+    display: flex;
+    flex-wrap: wrap;
+ }
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 629px;
+    height: auto;
+    opacity: 30%;
+    margin-left: 35px;
+}
+.out {
+    width: 92px;
+}
+.login {
+    padding: 20px ;
+    margin-top: 72px;
+    margin-bottom: 72px;
+}
+
+.goout {
+    padding: 20px;
+    margin-bottom: 72px;
+    margin-right: 35px;
+}
