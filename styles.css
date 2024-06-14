@@ -63,7 +63,7 @@ header {
 
 .book-item > figcaption {
     font-size: 25px;
-
+    text-align: center;
 }
 .book-item > img {
     height: 500px;
