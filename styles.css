@@ -53,7 +53,8 @@ header {
     width: auto;
 }
 .book-item {
-    display: inline-block;
+    display: inline;
+
 }
 
 .catalog {
@@ -62,4 +63,10 @@ header {
 
 .book-item > figcaption {
     font-size: 25px;
+
+}
+.book-item > img {
+    height: 500px;
+    width: auto;
+
 }
