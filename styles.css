@@ -52,3 +52,14 @@ header {
     height: 400px;
     width: auto;
 }
+.book-item {
+    display: inline-block;
+}
+
+.catalog {
+    display: flex;
+}
+
+.book-item > figcaption {
+    font-size: 25px;
+}
